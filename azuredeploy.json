@@ -37,7 +37,7 @@
         },
         "hostingEnvironment": {
             "type": "string",
-			"defaultValue": "Central US"
+	"defaultValue": ""
         },
         "location": {
             "type": "string",
