@@ -33,7 +33,7 @@
         },
         "hostingPlanName": {
             "type": "string",
-			"defaultValue": "ServicePlancc2a20d0-abf0"
+		
         },
         "hostingEnvironment": {
             "type": "string",
