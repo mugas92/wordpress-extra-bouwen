@@ -34,7 +34,7 @@
 			
         },
         "appserviceplan": {
-            "type": "string",
+            "type": "string"
 		
         },
         "hostingEnvironment": {
