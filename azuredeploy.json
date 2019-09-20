@@ -34,7 +34,7 @@
 			
         },
         "hostingPlanName": {
-            "type": "string",
+            "type": "string"
 		
         },
         "hostingEnvironment": {
